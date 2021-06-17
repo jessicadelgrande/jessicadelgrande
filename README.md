@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**jessicadelgrande/jessicadelgrande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre>
+             _        _           _           _           _           _             _          
+            /\ \     /\ \        / /\        / /\        /\ \       /\ \           / /\        
+            \ \ \   /  \ \      / /  \      / /  \       \ \ \     /  \ \         / /  \       
+            /\ \_\ / /\ \ \    / / /\ \__  / / /\ \__    /\ \_\   / /\ \ \       / / /\ \      
+           / /\/_// / /\ \_\  / / /\ \___\/ / /\ \___\  / /\/_/  / / /\ \ \     / / /\ \ \     
+  _       / / /  / /_/_ \/_/  \ \ \ \/___/\ \ \ \/___/ / / /    / / /  \ \_\   / / /  \ \ \    
+ /\ \    / / /  / /____/\      \ \ \       \ \ \      / / /    / / /    \/_/  / / /___/ /\ \   
+ \ \_\  / / /  / /\____\/  _    \ \ \  _    \ \ \    / / /    / / /          / / /_____/ /\ \  
+ / / /_/ / /  / / /______ /_/\__/ / / /_/\__/ / /___/ / /__  / / /________  / /_________/\ \ \ 
+/ / /__\/ /  / / /_______\\ \/___/ /  \ \/___/ //\__\/_/___\/ / /_________\/ / /_       __\ \_\
+\/_______/   \/__________/ \_____\/    \_____\/ \/_________/\/____________/\_\___\     /____/_/
+                                                                                                                                                 </pre>                                                                                                                                           <pre>
+I'm a front-end focused full-stack web developer with a background in design. 
+I've used the whole MERN stack, but my heart belongs to the front end.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I sometimes write about coding - you can find me on <a href="https://jessica-delgrande.medium.com/">Medium</a> and also on <a href="https://twitter.com/jessdelgrande">Twitter</a>.
+</pre>
