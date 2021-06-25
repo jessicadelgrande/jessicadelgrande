@@ -13,7 +13,7 @@
 \/_______/   \/__________/ \_____\/    \_____\/ \/_________/\/____________/\_\___\     /____/_/
 </pre>
 <pre>
-I'm a front-end focused web developer with a background in UX. 
+I'm a front-end focused software developer with a background in UX. 
 I've used the whole MERN stack, but my heart belongs to the front end.
 I'm passionate about making coding accessible to everyone, regardless of background or 
 imagined aptitude. 
