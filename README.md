@@ -18,5 +18,5 @@ I've used the whole MERN stack, but my heart belongs to the front end.
 I'm passionate about making coding accessible to everyone! 
 
 Sometimes I write stuff, mostly to simplify programming concepts that can feel complicated. 
-You can find me on <a href="https://jessica-delgrande.medium.com/">Medium</a> and also on <a href="www.linkedin.com/in/jessicadelgrande">LinkedIn</a>.
+You can find me on <a href="https://jessica-delgrande.medium.com/">Medium</a> and also on <a href="https://www.linkedin.com/in/jessicadelgrande">LinkedIn</a>.
 </pre>
