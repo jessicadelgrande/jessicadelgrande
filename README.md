@@ -13,7 +13,7 @@
 \/_______/   \/__________/ \_____\/    \_____\/ \/_________/\/____________/\_\___\     /____/_/
 </pre>
 <pre>
-I'm a marketer turned UX engineer turned growth and digital strategist.
+I'm a marketer and UX engineer working in growth and digital.
 I love asking why and I love solving problems.
 I write about marketing, conversion, and design over on <a href="https://www.linkedin.com/in/jessicadelgrande">LinkedIn</a>.
 </pre>
